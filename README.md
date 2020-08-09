@@ -19,3 +19,29 @@
 
 已选配置
 =
+1.ipv6
+
+2.frps
+
+3.frpc
+
+4.upnp
+
+5.动态DNS
+
+6.KMS服务器
+
+7.SSR Plus+（节点仅支持SSR和Trojan）
+
+8.解锁网易云灰色歌曲
+
+9.广告屏蔽大师 Plus+
+
+10.上网时间控制
+
+11.IPSec VPN 服务器
+
+12.主题中添加argon主题
+
+13.添加open-vm-tools
+
