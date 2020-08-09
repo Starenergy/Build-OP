@@ -1,11 +1,9 @@
 #
-# Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
-#
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
 #
-# https://github.com/P3TERX/Actions-OpenWrt
-# Description: Build OpenWrt using GitHub Actions
+# https://github.com/Starenergy/Build-OP
+# Description: Build Lede`s OpenWrt using GitHub Actions
 #
 
 name: Build OpenWrt(Lede)
