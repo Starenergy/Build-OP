@@ -49,4 +49,6 @@
 
 13.添加open-vm-tools
 
+感谢
+=
 参考自：https://github.com/P3TERX/Actions-OpenWrt
