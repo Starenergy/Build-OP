@@ -1,5 +1,10 @@
 自用在线编译L大Openwrt固件的脚本
 =
+
+[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
+![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
+
 默认编译后的固件适用x64平台，本人使用于Esxi7.0中，配合pfsense做旁路由
 
 使用方法
