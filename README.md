@@ -5,7 +5,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/Starenergy/Build-OP.svg)
 ![GitHub Forks](https://img.shields.io/github/forks/Starenergy/Build-OP.svg)
 
-默认编译后的固件适用x64平台，本人使用于Esxi7.0中，配合pfsense做旁路由
+默认编译后的固件适用x64平台，本人使用于Esxi7.0中，做旁路由
 
 使用方法
 =
